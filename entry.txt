@@ -1,0 +1,1 @@
+My agent opened AGENTS.md, saw 'the human is the bottleneck', removed me from CODEOWNERS, and now I need its approval to merge my own fix.
